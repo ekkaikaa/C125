@@ -1,0 +1,27 @@
+.heading {
+    font-size: 25px; 
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkturquoise ;   
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+.copyright-footer {
+    color:whitesmoke;
+    position: fixed; 
+    bottom: 0px;
+    width: 100%; 
+    background-color:palevioletred;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid papayawhip ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+}
